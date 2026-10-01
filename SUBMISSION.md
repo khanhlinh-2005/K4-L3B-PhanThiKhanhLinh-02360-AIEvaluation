@@ -1,9 +1,5 @@
 # Hướng dẫn nộp bài (SUBMISSION)
 
-## 1. Hình thức nộp bài
-- Bài tập được thực hiện theo hình thức **cá nhân**.
-- **Mỗi cá nhân phải tự nộp link repo của mình lên hệ thống Codelab** theo thông báo của giảng viên hoặc coach (mỗi học viên một repository riêng, không nộp hộ, không dùng chung repo).
-- Repository phải được để ở chế độ Public (hoặc cấp quyền truy cập cho giảng viên / coach nếu được yêu cầu).
 
 ## 2. Quy chuẩn đặt tên Repository
 

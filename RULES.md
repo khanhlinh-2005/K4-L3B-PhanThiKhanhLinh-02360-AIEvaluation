@@ -1,21 +1,5 @@
 # Quy định làm bài (RULES)
 
-## 1. Hình thức làm bài
-- Lab là bài tập **cá nhân**.
-- Mỗi học viên tự làm trên repository của mình và nộp link repository cá nhân lên Codelab.
-- Không làm bài theo nhóm, không dùng chung repository.
-
-## 2. Quy định sử dụng AI
-- Được phép sử dụng AI (như ChatGPT, Claude, GitHub Copilot, Cursor...) làm trợ lý học tập, giải thích khái niệm, gợi ý cú pháp và hỗ trợ debug.
-- Học viên phải hiểu rõ toàn bộ mã nguồn và logic do mình nộp.
-- Tự viết các nội dung phân tích, failure analysis, 5 Whys và reflection.
-- Khi coach vấn đáp hoặc review, nếu học viên **không giải thích được** mã nguồn hoặc nội dung bài làm của mình, phần tương ứng sẽ bị **hủy điểm (0 điểm phần đó)**.
-
-## 3. Hợp tác và Đạo văn
-- Khuyến khích thảo luận ý tưởng, phương pháp tiếp cận và kỹ thuật đánh giá giữa các học viên.
-- **Nghiêm cấm** sao chép trực tiếp mã nguồn, dữ liệu golden dataset hoặc nội dung reflection từ học viên khác.
-- Trường hợp phát hiện đạo văn (plagiarism), **cả hai bên liên quan đều nhận 0 điểm** cho toàn bộ bài lab.
-
 ## 4. Bảo mật thông tin
 - **Tuyệt đối không commit** file `.env`, API key (như `OPENAI_API_KEY`), access tokens hoặc bất kỳ thông tin bí mật nào lên GitHub repository.
 - File `.env` đã được đưa vào `.gitignore`. Hãy kiểm tra kỹ trước khi `git add` và `git push`.
